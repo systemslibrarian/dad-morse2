@@ -1,4 +1,4 @@
-# Dead Man's Morse
+# Dad's Man's Morse
 
 An **offline-first** encrypted Morse communication tool. Encrypts messages with
 Argon2id + HKDF + AES-256-GCM, converts the ciphertext to Morse code, and lets
