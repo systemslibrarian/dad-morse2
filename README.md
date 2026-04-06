@@ -22,7 +22,7 @@ Installable as a PWA. Works fully offline after first load.
 
 ## Live Demo
 
-✅ [https://systemslibrarian.github.io/dad-morse2/](https://systemslibrarian.github.io/dad-mode-morse2/)
+✅ [https://systemslibrarian.github.io/crypto-lab-dad-mode-morse2/](https://systemslibrarian.github.io/crypto-lab-dad-mode-morse2/)
 
 ---
 
@@ -257,7 +257,7 @@ You don't need to install anything complicated. Pick the option that fits your c
 
 ### Option A: Just open the file (simplest)
 
-1. Go to https://github.com/systemslibrarian/dad-morse2
+1. Go to https://github.com/systemslibrarian/crypto-lab-dad-mode-morse2
 2. Click the green **Code** button → **Download ZIP**
 3. Unzip the folder anywhere on your computer
 4. Open the folder and double-click **index.html** — it opens in your browser
@@ -278,7 +278,7 @@ service worker caching. You only need **one** of the tools below.
 2. Open a terminal / command prompt
 3. Navigate to the folder:
    ```bash
-   cd ~/Downloads/dad-morse2-main   # adjust the path to where you unzipped it
+   cd ~/Downloads/crypto-lab-dad-mode-morse2-main   # adjust the path to where you unzipped it
    ```
 4. Start the server:
    ```bash
@@ -307,8 +307,8 @@ service worker caching. You only need **one** of the tools below.
 ### Option C: Clone with Git (for developers)
 
 ```bash
-git clone https://github.com/systemslibrarian/dad-morse2.git
-cd dad-morse2
+git clone https://github.com/systemslibrarian/crypto-lab-dad-mode-morse2.git
+cd crypto-lab-dad-mode-morse2
 python3 -m http.server 8080
 # open http://localhost:8080
 ```

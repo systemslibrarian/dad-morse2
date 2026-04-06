@@ -3,7 +3,7 @@
 # Tests: Encryption (50) + Extended (50) + WAV Decode (16) = 116 tests per run
 # Includes: AES-256-GCM, Argon2id, HKDF, Signal Key, Ed25519 signing, Morse codec, WAV decode
 
-cd /workspaces/dad-morse2
+cd /workspaces/crypto-lab-dad-mode-morse2
 
 echo "=============================================="
 echo "Dad's Morse v5 - Full Test Suite (10x)"

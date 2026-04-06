@@ -1,8 +1,8 @@
 #!/bin/bash
 # run10x_output.sh - Run all test suites 10 times, save output to file
 
-cd /workspaces/dad-morse2
-OUTPUT_FILE="/workspaces/dad-morse2/test_results.txt"
+cd /workspaces/crypto-lab-dad-mode-morse2
+OUTPUT_FILE="/workspaces/crypto-lab-dad-mode-morse2/test_results.txt"
 
 exec > "$OUTPUT_FILE" 2>&1
 

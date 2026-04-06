@@ -1,5 +1,5 @@
 {
-  "name": "dad-mode-morse",
+  "name": "crypto-lab-dad-mode-morse2",
   "version": "5.0.0",
   "description": "Offline encrypted Morse communication — Argon2id + AES-256-GCM + Ed25519",
   "private": true,
@@ -17,7 +17,7 @@
   "author": "Paul Clark (systemslibrarian)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/systemslibrarian/dad-mode-morse"
+    "url": "https://github.com/systemslibrarian/crypto-lab-dad-mode-morse2"
   },
   "dependencies": {
     "hash-wasm": "^4.12.0",
